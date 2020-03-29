@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name" translatable="false">Neural Style Transfer</string>
+    <string name="gpu" translatable="false">GPU</string>
+    <string name="no_style_selected" translatable="false">No style selected</string>
+    <string-array name="style_name_array" translatable="false">
+        <item>Robert Delaunay - air iron and water</item>
+        <item>Roy Lichtenstein - bicentennial print 1975</item>
+        <item>Wassily Kandinsky - black spot</item>
+        <item>Sol Lewitt - brush strokes</item>
+        <item>Candy</item>
+        <item>Wassily Kandinsky - composition vii</item>
+        <item>Eikyu</item>
+        <item>Oscar Bluemner -  Evening Tones</item>
+        <item>Feather leaves and petals</item>
+        <item>Wiener Werkstätte- Rock hen</item>
+        <item>Paul Klee</item>
+        <item>Eugene Grasset - jealousy</item>
+        <item>Delaunay - city of paris</item>
+        <item>Picasso - the muse</item>
+        <item>Kim, Ik Mo- Landscape of Daydream 9553</item>
+        <item>Stained Glass</item>
+        <item>Luigi Russolo - Profumo</item>
+        <item>Sean Scully - Red Light</item>
+        <item>Pattern</item>
+        <item>Van Gogh - starry night</item>
+        <item>Johannes Molzahn - idea-motion-fight</item>
+        <item>Stuart Davis - artwork</item>
+        <item>Fernand Léger - the stair</item>
+        <item>Udnie - young american girl</item>
+        <item>Katsushika Hokusai - the wave</item>
+        <item>Wild garden - Nikos Khatzikyriakos-Ghikas</item>
+    </string-array>
+
+</resources>
